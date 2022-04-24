@@ -1,1 +1,1 @@
-# Assign-03-HTML-PlaneAngles
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-MarcusW/Assign-03-HTML-PlaneAngles/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-MarcusW/Assign-03-HTML-PlaneAngles/actions)
